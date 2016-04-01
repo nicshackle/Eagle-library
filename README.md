@@ -8,6 +8,7 @@ Parts:
 * ESP-07 SMD
 * MCP1725 SMD
 * MCP73832 SMD
+* Molex micro-usb midmount PTH+SMD
 
 
 
